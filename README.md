@@ -1,6 +1,5 @@
 # Salesforce Development Notes - Day 1 to Day 69
 
-This package contains **69 separate beginner-friendly Markdown files**, one for each numbered day in the supplied PDF.
 
 ## Reading order
 
